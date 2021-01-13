@@ -40,7 +40,7 @@ links:
 #  name: ""
 #  url: ""
 #url_code: ""
-url_pdf: "event/example/E00399.7a_Poster_Williams.pdf"
+url_pdf: "E00399.7a_Poster_Williams.pdf"
 url_slides: ""
 url_video: ""
 
