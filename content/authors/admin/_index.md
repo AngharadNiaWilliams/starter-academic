@@ -51,16 +51,12 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0001-9363-8537
 
-
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
-
-# ADD TO BOTTOM OF THIS PAGE IF WANT ICON {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#   link: media/Public_CV_AngharadWilliams.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "angharad@cbs.mpg.de"
@@ -71,3 +67,4 @@ highlight_name: false
 
 I am a postdoctoral researcher in cognitive neuroscience in the Max Planck Research Group Adaptive Memory, Leipzig, Germany. My research interests include event perception, memory, and imagination. 
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Public_CV_AngharadWilliams.pdf" "newtab" >}}CV{{< /staticref >}}.
