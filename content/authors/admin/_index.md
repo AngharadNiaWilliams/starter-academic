@@ -18,19 +18,19 @@ bio: My research interests include event perception, memory, and imagination.
 
 # Interests to show in About widget
 interests:
-- Event Memory
-- Event Simulation
 - Event Construction
+- Episodic Memory
+- Future Simulation
 - Event Boundaries
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
-    institution: Cardiff University
+    institution: Cardiff University Brain Research Imaging Centre (CUBRIC), United Kingdom
     year: 2016
   - course: BSc in Applied Psychology
-    institution: Cardiff University
+    institution: Cardiff University School of Psychology, United Kingdom
     year: 2012
 
 # Social/Academic Networking
@@ -47,6 +47,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sGmOF1QAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9363-8537
 
 
 
@@ -66,5 +69,5 @@ email: "angharad@cbs.mpg.de"
 highlight_name: false
 ---
 
-Angharad Williams is a postdoctoral fellow of cognitive neuroscience at the Max Planck Research Group Adaptive Memory. Her research interests include event perception, memory and imagination. 
+I am a postdoctoral researcher in cognitive neuroscience in the Max Planck Research Group Adaptive Memory, Leipzig, Germany. My research interests include event perception, memory, and imagination. 
 

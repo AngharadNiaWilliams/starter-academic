@@ -64,6 +64,6 @@ abstract: "Neuropsychological and functional magnetic resonance imaging evidence
   \ past, and constructing possible future events, involves a distinct, structurally-instantiated\
   \ hippocampal-vmPFC pathway."
 publication: '*Neuropsychologia*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0028393220301287
-doi: 10.1016/j.neuropsychologia.2020.107457
+url_pdf: "media/WilliamsEtal2020.pdf"
+doi: https://doi.org/10.1016/j.neuropsychologia.2020.107457
 ---

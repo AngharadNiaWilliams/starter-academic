@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: How the Human Brain Segments Continuous Experience
+title: How the human brain segments continuous experience
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 - Carl J. Hodgetts
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019-04-24'
 lastmod: 2021-01-13T16:20:20+01:00
 featured: false
 draft: false
@@ -29,9 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-13T15:20:20.255194Z'
+publishDate: '2019-04-24T15:20:20.255194Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Neuroscience*'
+doi: "https://doi.org/10.1523/JNEUROSCI.3041-18.2019"
+url_pdf: "media/WilliamsEtal2019_JoN.pdf"
 ---

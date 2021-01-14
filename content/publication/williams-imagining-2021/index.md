@@ -28,13 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-13T15:20:22.309556Z'
+publishDate: '2021-01-04T15:20:22.309556Z'
 publication_types:
 - '2'
 abstract: How can we promote sustainable behaviours and reduce unsustainable ones?
   A new study explores potential neural mechanisms underlying thoughts about farsighted
   future actions.
 publication: '*Nature Sustainability*'
-url_pdf: https://www.nature.com/articles/s41893-020-00671-6
-doi: 10.1038/s41893-020-00671-6
+doi: https://doi.org/10.1038/s41893-020-00671-6
 ---
