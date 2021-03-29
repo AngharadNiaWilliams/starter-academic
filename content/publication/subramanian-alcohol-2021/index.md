@@ -5,20 +5,20 @@ title: "Neurofeedback Training versus Treatment-as-Usual for Alcohol Dependence:
 subtitle: ''
 summary: ''
 authors:
-- Subramanian L.
-- Skottnik L. 
-- Cox W.M.
-- Lührs M.
-- McNamara R.
-- Hood K.
-- Watson G. 
-- Whittaker J.R. 
-- Williams A.N.
-- Sakhuja R.
-- Ihssen N.
-- Goebel R.
-- Playle R.
-- Linden D.E.J.
+- Leena Subramanian
+- Leon Skottnik 
+- Miles Cox
+- Michael Lührs
+- Rachel McNamara
+- Kerry Hood
+- Gareth Watson
+- Joseph R Whittaker
+- Angharad N Williams
+- Raman Sakhuja
+- Niklas Ihssen
+- Rainer Goebel
+- Rebecca Playle
+- David EJ Linden
 
 tags: []
 categories: []
