@@ -35,5 +35,6 @@ abstract: How can we promote sustainable behaviours and reduce unsustainable one
   A new study explores potential neural mechanisms underlying thoughts about farsighted
   future actions.
 publication: '*Nature Sustainability*'
+url_pdf: "media/WilliamsBenoit2021.pdf"
 doi: https://doi.org/10.1038/s41893-020-00671-6
 ---
