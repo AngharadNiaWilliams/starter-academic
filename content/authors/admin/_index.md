@@ -56,7 +56,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "media/2021-03-29_WebsiteCV_AngharadWilliams.pdf"
+  link: "media/2021-04-29_WebsiteCV_AngharadWilliams.pdf"
 
 #IF I WANT TO ADD THE CV AS A DOWNLOAD CV HERE LINK THIS PART NEEDS TO BE ADDED TO THE VERY BOTTON OF THIS FILE...
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Public_CV_AngharadWilliams.pdf" "newtab" >}}CV{{< /staticref >}}.
