@@ -16,7 +16,7 @@ abstract: "The medial prefrontal cortex (mPFC) and the hippocampus (HPC) are bot
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-06-16
+date: 2021-06-14
 #date_end: 2021-06-16T15:00:46+02:00
 all_day: true
 
