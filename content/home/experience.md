@@ -22,19 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Fellow
+  - title: Senior Lecturer in Psychology (Cognitive Psychology and Cognitive Neuroscience), School of Social Sciences
+    company: Nottingham Trent University
+    company_url: ''
+    location: Nottingham, UK
+    date_start: '2021-09-27'
+    date_end: ''
+    #description: 
+
+  - title: Postdoctoral Fellow, Max Planck Research Group Adaptive Memory
     company: Max Planck Institute for Human Cognitive and Brain Sciences
-    company_url: 'www.cbs.mpg.de/employees/angharad'
+    company_url: 'https://www.cbs.mpg.de/employees/angharad'
     location: Leipzig, Germany
     date_start: '2019-11-01'
-    date_end: ''
+    date_end: '2021-09-24'
     # description: |2-
       #  Responsibilities include:
       #  
       #  * Design, conduct, and publish research
       #  * Supervise student interns and research assistants
-
-        
+   
   - title: Postdoctoral Research Associate in Cognitive Neuroscience, Cardiff University School of Psychology
     company: Cardiff University Brain Research Imaging Centre (CUBRIC)
     company_url: 'https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre'

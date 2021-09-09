@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "angharad@cbs.mpg.de"
+email = "angharad.williams@ntu.ac.uk"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Max Planck Institute for Human Cognitive and Brain Sciences, Stephanstraße 1a", city = "04103 Leipzig", region = "Saxony, Germany", postcode = "", country = "Germany", country_code = "DE"}
+address = {street = "Nottingham Trent University, Goldsmith St", city = "Nottingham", region = "East Midlands, UK", postcode = "NG1 4BU", country = "England", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.33511", longitude = "12.38939"}
+coordinates = {latitude = "52.95747466810757", longitude = "-1.1550491845713486"}
 
 # Directions for visitors to locate you.
 directions = ""

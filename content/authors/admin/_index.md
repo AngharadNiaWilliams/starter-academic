@@ -6,11 +6,11 @@ title: Angharad N. Williams
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Senior Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Max Planck Institute for Human Cognitive and Brain Sciences
+- name: Nottingham Trent University
   url: https://www.cbs.mpg.de/employees/angharad
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:angharad@cbs.mpg.de
+  link: mailto:angharad.williams@ntu.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AngharadNiaW
@@ -56,17 +56,17 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "media/2021-04-29_WebsiteCV_AngharadWilliams.pdf"
+  link: "media/2021-09-09_WebsiteCV_AngharadWilliams.pdf"
 
 #IF I WANT TO ADD THE CV AS A DOWNLOAD CV HERE LINK THIS PART NEEDS TO BE ADDED TO THE VERY BOTTON OF THIS FILE...
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Public_CV_AngharadWilliams.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "angharad@cbs.mpg.de"
+email: "angharad.williams@ntu.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in cognitive neuroscience in the Max Planck Research Group Adaptive Memory, Leipzig, Germany. My research interests include event perception, memory, and imagination. 
+Senior Lecturer in Psychology (Cognitive Psychology and Cognitive Neuroscience), School of Social Sciences, Nottingham Trent University, UK. My research interests include event perception, memory, and imagination. 
 
