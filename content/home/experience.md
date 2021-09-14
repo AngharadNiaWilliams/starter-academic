@@ -74,7 +74,7 @@ experience:
     date_end: '2012-10-01'
     #description: 
 
-  - title: Psychology Research Assistant
+  - title: Assistant Psychologist
     company: Ty Catrin Low Secure Specialist Personality Disorder Unit (Pastoral Healthcare Ltd), and the Wales Applied Risk Research Network (WARRN)
     company_url: ''
     location: Cardiff, UK
