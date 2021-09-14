@@ -58,7 +58,7 @@ experience:
     date_end: '2017-03-01'
     #description: 
 
-  - title: Postgraduate Tutor
+  - title: Postgraduate Tutor and Practical Assistant
     company: Cardiff University School of Psychology
     company_url: 'https://www.cardiff.ac.uk/psychology'
     location: Cardiff, UK
