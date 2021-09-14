@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Nottingham Trent University, Goldsmith St", city = "Nottingham", region = "East Midlands, UK", postcode = "NG1 4BU", country = "England", country_code = "UK"}
+address = {street = "Nottingham Trent University, Chaucer Building, Goldsmith Street", city = "Nottingham", region = "East Midlands, UK", postcode = "NG1 5LT", country = "England", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
