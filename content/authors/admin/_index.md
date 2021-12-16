@@ -11,17 +11,18 @@ role: Senior Lecturer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Nottingham Trent University
-  url: https://www.cbs.mpg.de/employees/angharad
+  url: https://www.ntu.ac.uk/staff-profiles/social-sciences/angharad-williams
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include event perception, memory, and imagination.
 
 # Interests to show in About widget
 interests:
-- Event Construction
 - Episodic Memory
-- Future Simulation
-- Event Boundaries
+- Autobiographical Memory
+- Scene Perception
+- Schema-based Memory
+- Future Thinking
 
 # Education to show in About widget
 education:
